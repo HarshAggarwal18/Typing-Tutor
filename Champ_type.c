@@ -192,7 +192,7 @@ void loadUserData()
     fclose(fp);
 }
 
-/* ================= User Management ================= */
+/* ================= User Management ================== */
 
 void registerUser()
 {
