@@ -21,7 +21,7 @@
 #define BLUE "\x1B[34m"
 #define RESET "\x1B[0m"
 
-/* ================= Data Structure Definitions ================= */
+/* ================= Data Structure Definitions ================== */
 
 typedef struct Session
 {
