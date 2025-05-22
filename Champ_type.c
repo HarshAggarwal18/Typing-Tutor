@@ -101,7 +101,7 @@ void addGameRecord(User *user, const char *type, int score);
 
 /* ================= Core Functionality ================= */
 
-unsigned hash(const char *username) // username to hsah value
+unsigned hash(const char *username) // ->username to hsah value
 {
     unsigned hash = 0;
     for (; *username; username++)
